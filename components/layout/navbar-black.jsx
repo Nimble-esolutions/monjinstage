@@ -299,7 +299,7 @@ export function NavbarBlack() {
                 variant="outline"
                 className="rounded-[8px] border-black/50 bg-transparent font-onest font-normal text-[15px] px-6 py-3 h-auto transition-all duration-500 hover:scale-[98%] w-full"
               >
-                Contact Us
+                Book a Demo
               </Button>
             </Link>
             <Link
