@@ -23,7 +23,7 @@ import JobApplicationForm from "@/components/careers/apply";
 import { MobileNavbarLight } from "@/components/layout/mobile-navbar-light";
 import AboutHeroMobile from "@/components/about/about-hero-mobile";
 import { motion } from "framer-motion";
-import TeamGrid from "@/components/team/team-section";
+import TeamGrid from "@/components/team/team";
 
 export default function Team() {
   return (

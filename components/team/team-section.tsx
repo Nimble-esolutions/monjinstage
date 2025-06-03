@@ -18,7 +18,7 @@ const teamMembers: TeamMember[] = [
   {
     name: "Aniruddha Fansalkar",
     role: "Co-Founder &\nChief Human Resource\nOfficer",
-    image: "/assets/team/aniruddha.jpg",
+    image: "/assets/team/aniruddha.jpg",                                                                                                                                                                                                           
     linkedinUrl: "https://www.linkedin.com/in/aniruddha-fansalkar-731177a/",
   },
   {
