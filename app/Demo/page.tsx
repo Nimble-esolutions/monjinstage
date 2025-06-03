@@ -2,7 +2,7 @@
 
 import { Footer } from "@/components/layout/footer";
 import Image from "next/image";
-import PricingForm from "@/components/pricing/pricing-form";
+//import PricingForm from "@/components/pricing/pricing-form";
 import Demo from "@/components/free-demo/demo-form";
 import { NavbarBlack } from "@/components/layout/navbar-black";
 import { PricingSlider } from "@/components/sliders/pricing-slider";
@@ -64,7 +64,7 @@ export default function Pricing() {
           ease: "easeOut",
         }}
       >
-     <PricingForm /> 
+     <Demo /> 
 	 <Demo />
       </motion.div>
 
