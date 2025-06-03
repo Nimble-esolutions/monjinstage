@@ -298,7 +298,7 @@ export function NavbarWhite() {
                 variant="outline"
                 className="rounded-[8px] border-white/50 bg-transparent font-onest font-normal text-[15px] px-6 py-3 h-auto hover:bg-white hover:text-black transition-all duration-500 ease-in-out hover:scale-[98%] w-full"
               >
-                Contact Us
+                Book a Demo
               </Button>
             </Link>
             <Link
