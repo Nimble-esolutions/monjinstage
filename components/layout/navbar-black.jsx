@@ -292,7 +292,7 @@ export function NavbarBlack() {
 
           <div className="grid grid-cols-2 items-center gap-3">
             <Link
-              href="/contact"
+              href="/Demo"
               className="w-full h-full flex items-center justify-center"
             >
               <Button
