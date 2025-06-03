@@ -3,7 +3,7 @@
 import { Footer } from "@/components/layout/footer";
 import Image from "next/image";
 import PricingForm from "@/components/pricing/pricing-form";
-import Demo from "@/components/free-demo/demo-form";
+//import Demo from "@/components/free-demo/demo-form";
 import { NavbarBlack } from "@/components/layout/navbar-black";
 import { PricingSlider } from "@/components/sliders/pricing-slider";
 import { MobileNavbarDark } from "@/components/layout/mobile-navbar-dark";
